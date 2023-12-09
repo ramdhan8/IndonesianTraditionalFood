@@ -1,15 +1,15 @@
 # IndonesianTraditionalFood
 Mobile Version
 ## Prject Setup
-👉 File Api 
+👉 File api 
 
     Berisikan api yang digunakan pada Aplikasi ini dan database
 
-👉 File App
+👉 File app
 
     Berisikan aplikasi Mobile IndonesianTraditionalFood
 
-👉 File Layout
+👉 File layout
 
     Berisikan hanya layout yang ada pada aplikasi Moble IndonesianTraditionalFood
 
