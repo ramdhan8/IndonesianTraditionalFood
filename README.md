@@ -7,5 +7,9 @@ Mobile Version
 
 👉 File App
 
-    Berisikan 
+    Berisikan aplikasi Mobile IndonesianTraditionalFood
+
+👉 File Layout
+
+    Berisikan hanya layout yang ada pada aplikasi Moble IndonesianTraditionalFood
 
